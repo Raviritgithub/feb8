@@ -1,2 +1,8 @@
-# feb8
-feb8 2022
+a=int(input("enter the number:"))
+b=int(input("enter the number:"))
+print(a>b)
+print(a<b)
+print(a>=b)
+print(a<=b)
+print(a==b)
+print(a!=b)
